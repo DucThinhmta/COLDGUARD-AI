@@ -1,0 +1,11 @@
+﻿Container,Nhiệt độ (°C),Độ ẩm (%),Thời gian chờ (giờ),Làm lạnh,Hạn bảo quản còn lại (giờ)
+MG001,4.2,82,18,Bình thường,220
+MG002,5.1,85,24,Bình thường,210
+MG003,6.3,88,31,Bình thường,200
+MG004,4.8,80,20,Bình thường,215
+MG005,8.9,94,52,Bất thường,150
+MG006,5.6,87,50,Bình thường,170
+MG007,7.8,90,40,Bình thường,120
+MG008,6.0,84,22,Bình thường,24
+MG009,4.9,83,26,Bình thường,205
+MG010,5.3,91,28,Bất thường,190
